@@ -18,7 +18,7 @@ A Python package to modelling and measuring the effects of roots on slope stabil
 ![GitLab Release](https://img.shields.io/gitlab/v/release/92563?gitlab_url=https%3A%2F%2Fgit.rwth-aachen.de%2F)
 ![GitLab License](https://img.shields.io/gitlab/v/license/92563?gitlab_url=https%3A%2F%2Fgit.rwth-aachen.de)
 ![Conda Downloads](https://img.shields.io/conda/d/conda-forge/psimpy)
-![PyPI - Downloads](https://img.shields.io/pypi/dm/psimpy?label=PyPI%20|%20downloads)
+![Pepy Total Downloads](https://img.shields.io/pepy/dt/psimpy)
 
 `PSimPy` (Predictive and probabilistic simulation with Python) implements a Gaussian process emulation-based framework that enables systematic and efficient investigation of uncertainties associated with physics-based models (i.e. simulators).
 
