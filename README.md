@@ -12,6 +12,7 @@ I am involved in multiple projects at different levels. Below you can find a lis
 A Python package to modelling and measuring the effects of roots on slope stability
 
 ![](https://icons.getbootstrap.com/assets/icons/github.svg) [github.com/rootmemo/pyrootmemo](https://github.com/rootmemo/pyrootmemo)
+![](https://icons.getbootstrap.com/assets/icons/book.svg) [pyrootmemo.readthedocs.io](https://pyrootmemo.readthedocs.io/)
 
 ### PSimPy
 
