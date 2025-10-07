@@ -7,6 +7,12 @@ Working on computational and data-driven modelling of climate-driven geohazards
 
 I am involved in multiple projects at different levels. Below you can find a list of open source research software that are developed at [MBD @ RWTH](https://www.github.com/mbd-rwth).
 
+### pyrootmemo
+
+A Python package to modelling and measuring the effects of roots on slope stability
+
+![](https://icons.getbootstrap.com/assets/icons/github.svg) [github.com/rootmemo/pyrootmemo](https://github.com/rootmemo/pyrootmemo)
+
 ### PSimPy
 
 ![GitLab Release](https://img.shields.io/gitlab/v/release/92563?gitlab_url=https%3A%2F%2Fgit.rwth-aachen.de%2F)
